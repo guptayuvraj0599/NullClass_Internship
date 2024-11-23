@@ -1,0 +1,501 @@
+Qualification,Work Type,Country,Job Title,Experience (Years),Salary ($),Company Size,Contact Person,Job Portal,Posting Date,Posting Time,Gender,Latitude,Longitude
+M.Tech,Full-time,Kenya,Data Scientist,8,131196,91584,Ahmed Ali,Indeed,09/24/2022,13:02 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Egypt,Data Analyst,10,108398,84337,Adam Davis,Indeed,08/29/2022,13:15 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Nigeria,Developer,8,126819,87163,Alex Johnson,Indeed,07/31/2022,14:36 AM,Male,9.082,8.6753
+B.Tech,Full-time,Morocco,Developer,8,148493,86791,Aaron Carter,Indeed,05/29/2022,14:06 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Data Analyst,7,102846,91584,Ahmed Ali,Indeed,04/27/2023,13:44 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Developer,9,136011,84337,Adam Davis,Indeed,05/25/2023,13:24 AM,Male,26.8206,30.8025
+PhD,Full-time,Morocco,Developer,3,123714,86791,Aaron Carter,Indeed,02/21/2022,10:23 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Egypt,Data Analyst,5,139938,84337,Adam Davis,Indeed,11/02/2022,9:02 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Morocco,Data Scientist,4,137173,86791,Aaron Carter,Indeed,03/19/2023,10:24 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Ghana,Data Analyst,7,143152,84448,Anthony Brown,Indeed,04/30/2022,12:05 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Nigeria,Developer,9,100068,87163,Alex Johnson,Indeed,04/27/2023,13:28 PM,Male,9.082,8.6753
+B.Tech,Full-time,South Africa,Developer,6,136067,95818,Andrew Smith,Indeed,05/25/2022,12:35 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Nigeria,Data Analyst,9,107888,87163,Alex Johnson,Indeed,10/25/2022,11:22 AM,Male,9.082,8.6753
+M.Tech,Full-time,Kenya,Developer,8,153042,91584,Ahmed Ali,Indeed,12/23/2022,14:18 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Kenya,Data Architect,7,100879,91584,Ahmed Ali,Indeed,02/14/2022,12:08 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Morocco,Data Architect,4,104473,86791,Aaron Carter,Indeed,08/13/2022,14:10 PM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Developer,9,146015,95818,Andrew Smith,Indeed,02/18/2023,13:53 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Egypt,Data Scientist,6,132227,84337,Adam Davis,Indeed,07/06/2023,13:38 AM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Developer,6,122879,84337,Adam Davis,Indeed,07/01/2022,13:55 PM,Male,26.8206,30.8025
+PhD,Full-time,Ghana,Data Scientist,7,137344,84448,Anthony Brown,Indeed,01/30/2022,10:26 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Egypt,Data Architect,3,109708,84337,Adam Davis,Indeed,05/30/2022,15:04 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Data Architect,5,128298,84448,Anthony Brown,Indeed,04/28/2023,14:12 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Analyst,3,159747,86791,Aaron Carter,Indeed,02/12/2022,13:14 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Nigeria,Data Architect,8,147406,87163,Alex Johnson,Indeed,01/30/2023,13:31 AM,Male,9.082,8.6753
+M.Tech,Full-time,Egypt,Data Architect,7,159389,84337,Adam Davis,Indeed,09/17/2022,12:37 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Developer,10,145332,95818,Andrew Smith,Indeed,12/29/2022,10:43 AM,Male,-30.5595,22.9375
+PhD,Full-time,Nigeria,Data Analyst,6,102007,87163,Alex Johnson,Indeed,07/22/2022,11:46 AM,Male,9.082,8.6753
+PhD,Full-time,Ghana,Data Architect,6,111110,84448,Anthony Brown,Indeed,10/08/2022,11:35 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Scientist,5,143116,86791,Aaron Carter,Indeed,09/15/2022,12:25 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Analyst,3,117152,86791,Aaron Carter,Indeed,11/01/2022,14:47 AM,Male,31.7917,-7.0926
+PhD,Full-time,Egypt,Data Scientist,9,121090,84337,Adam Davis,Indeed,06/09/2023,12:43 PM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Data Architect,10,135697,84337,Adam Davis,Indeed,07/19/2023,10:15 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Ghana,Data Analyst,5,137971,84448,Anthony Brown,Indeed,11/02/2022,12:55 PM,Male,7.9465,-1.0232
+PhD,Full-time,Egypt,Data Analyst,6,135819,84337,Adam Davis,Indeed,01/28/2022,11:09 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Nigeria,Data Architect,5,132101,87163,Alex Johnson,Indeed,05/23/2023,13:46 PM,Male,9.082,8.6753
+M.Tech,Full-time,South Africa,Developer,8,141682,95818,Andrew Smith,Indeed,01/08/2022,14:29 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Nigeria,Data Scientist,4,154050,87163,Alex Johnson,Indeed,07/13/2023,13:48 AM,Male,9.082,8.6753
+B.Tech,Full-time,South Africa,Data Architect,7,145688,95818,Andrew Smith,Indeed,04/23/2022,13:12 AM,Male,-30.5595,22.9375
+PhD,Full-time,Morocco,Data Analyst,10,152107,86791,Aaron Carter,Indeed,03/23/2022,9:20 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Architect,10,148443,86791,Aaron Carter,Indeed,05/22/2023,15:20 PM,Male,31.7917,-7.0926
+PhD,Full-time,Ghana,Data Scientist,6,122455,84448,Anthony Brown,Indeed,06/22/2022,13:37 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Morocco,Data Scientist,6,152897,86791,Aaron Carter,Indeed,09/20/2022,12:09 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Architect,4,137628,86791,Aaron Carter,Indeed,03/06/2022,10:35 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Morocco,Data Scientist,8,133526,86791,Aaron Carter,Indeed,02/09/2022,11:53 AM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Architect,9,108678,95818,Andrew Smith,Indeed,12/10/2022,14:32 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Egypt,Data Scientist,4,118411,84337,Adam Davis,Indeed,08/15/2022,10:51 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Egypt,Data Architect,8,104560,84337,Adam Davis,Indeed,08/01/2022,12:00 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Morocco,Developer,3,112880,86791,Aaron Carter,Indeed,12/01/2022,14:54 AM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Architect,4,152890,91584,Ahmed Ali,Indeed,10/25/2022,13:10 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,South Africa,Data Analyst,7,143549,95818,Andrew Smith,Indeed,08/23/2022,11:18 AM,Male,-30.5595,22.9375
+PhD,Full-time,Morocco,Data Scientist,8,144843,86791,Aaron Carter,Indeed,05/17/2022,14:50 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Data Scientist,9,111117,86791,Aaron Carter,Indeed,03/10/2022,13:55 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Architect,9,130405,86791,Aaron Carter,Indeed,05/30/2023,9:02 AM,Male,31.7917,-7.0926
+PhD,Full-time,Egypt,Data Architect,6,132114,84337,Adam Davis,Indeed,04/15/2023,9:22 AM,Male,26.8206,30.8025
+PhD,Full-time,Morocco,Data Architect,8,129147,86791,Aaron Carter,Indeed,07/05/2022,14:27 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,South Africa,Data Architect,8,135032,95818,Andrew Smith,Indeed,02/23/2022,13:23 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Egypt,Data Analyst,3,141911,84337,Adam Davis,Indeed,12/21/2022,15:22 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Egypt,Data Scientist,4,156435,84337,Adam Davis,Indeed,01/08/2022,15:27 PM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Data Analyst,5,132888,95818,Andrew Smith,Indeed,10/17/2022,14:27 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Kenya,Data Scientist,7,122717,91584,Ahmed Ali,Indeed,02/11/2022,11:00 AM,Male,-1.2921,36.8219
+PhD,Full-time,Ghana,Data Analyst,8,142621,84448,Anthony Brown,Indeed,09/24/2022,15:48 PM,Male,7.9465,-1.0232
+PhD,Full-time,Ghana,Developer,7,116892,84448,Anthony Brown,Indeed,05/24/2022,12:34 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Morocco,Data Scientist,8,116431,86791,Aaron Carter,Indeed,01/04/2022,12:05 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Data Scientist,8,137094,86791,Aaron Carter,Indeed,12/31/2022,15:19 PM,Male,31.7917,-7.0926
+PhD,Full-time,Egypt,Data Scientist,10,131247,84337,Adam Davis,Indeed,06/11/2023,13:26 AM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Developer,4,135121,95818,Andrew Smith,Indeed,12/08/2022,14:17 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Egypt,Data Architect,9,125102,84337,Adam Davis,Indeed,05/23/2023,14:21 PM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Data Scientist,5,122473,95818,Andrew Smith,Indeed,04/17/2023,13:40 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Data Architect,9,121832,95818,Andrew Smith,Indeed,09/24/2022,14:38 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Ghana,Data Analyst,8,139839,84448,Anthony Brown,Indeed,04/28/2022,15:06 PM,Male,7.9465,-1.0232
+PhD,Full-time,Ghana,Data Architect,6,128685,84448,Anthony Brown,Indeed,06/15/2022,13:32 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Developer,3,159250,86791,Aaron Carter,Indeed,05/11/2022,15:55 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Nigeria,Developer,9,137437,87163,Alex Johnson,Indeed,06/26/2022,14:13 PM,Male,9.082,8.6753
+M.Tech,Full-time,South Africa,Developer,8,148670,95818,Andrew Smith,Indeed,04/28/2023,11:57 AM,Male,-30.5595,22.9375
+PhD,Full-time,Egypt,Data Analyst,5,153850,84337,Adam Davis,Indeed,01/22/2023,12:20 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Kenya,Data Architect,7,101431,91584,Ahmed Ali,Indeed,08/10/2022,13:12 PM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Architect,8,141003,86791,Aaron Carter,Indeed,09/02/2022,15:15 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Egypt,Data Architect,5,125248,84337,Adam Davis,Indeed,02/02/2023,12:32 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Morocco,Developer,3,116394,86791,Aaron Carter,Indeed,02/05/2023,12:56 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Developer,9,127390,91584,Ahmed Ali,Indeed,07/13/2023,15:13 PM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Data Scientist,9,134150,95818,Andrew Smith,Indeed,09/19/2022,11:08 AM,Male,-30.5595,22.9375
+PhD,Full-time,Kenya,Developer,3,122621,91584,Ahmed Ali,Indeed,01/06/2023,14:12 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Data Analyst,3,137701,84448,Anthony Brown,Indeed,05/01/2022,11:10 AM,Male,7.9465,-1.0232
+PhD,Full-time,Nigeria,Developer,3,136424,87163,Alex Johnson,Indeed,05/21/2022,10:04 AM,Male,9.082,8.6753
+B.Tech,Full-time,Nigeria,Data Architect,4,132170,87163,Alex Johnson,Indeed,09/01/2022,10:10 AM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Scientist,9,100768,86791,Aaron Carter,Indeed,07/29/2022,14:06 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,South Africa,Developer,3,121621,95818,Andrew Smith,Indeed,04/05/2022,11:12 AM,Male,-30.5595,22.9375
+PhD,Full-time,Egypt,Developer,6,155929,84337,Adam Davis,Indeed,01/19/2023,14:47 AM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Data Architect,7,109696,95818,Andrew Smith,Indeed,05/26/2022,12:25 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Kenya,Data Architect,4,129473,91584,Ahmed Ali,Indeed,01/16/2023,14:11 AM,Male,-1.2921,36.8219
+PhD,Full-time,Ghana,Data Architect,7,130970,84448,Anthony Brown,Indeed,05/24/2022,13:31 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Egypt,Data Analyst,9,148921,84337,Adam Davis,Indeed,03/28/2023,14:26 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Data Architect,3,151413,91584,Ahmed Ali,Indeed,01/01/2022,12:26 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Ghana,Data Analyst,8,128279,84448,Anthony Brown,Indeed,03/27/2023,14:01 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Egypt,Data Analyst,10,139089,84337,Adam Davis,Indeed,12/25/2022,11:00 AM,Male,26.8206,30.8025
+PhD,Full-time,Morocco,Data Analyst,5,121941,86791,Aaron Carter,Indeed,01/14/2023,13:56 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Nigeria,Data Scientist,5,105423,87163,Alex Johnson,Indeed,07/06/2022,13:33 PM,Male,9.082,8.6753
+B.Tech,Full-time,Morocco,Data Analyst,3,109735,86791,Aaron Carter,Indeed,03/20/2023,12:32 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Morocco,Data Analyst,7,104012,86791,Aaron Carter,Indeed,07/23/2022,14:56 PM,Male,31.7917,-7.0926
+PhD,Full-time,Ghana,Data Scientist,10,128541,84448,Anthony Brown,Indeed,07/20/2023,14:27 PM,Male,7.9465,-1.0232
+PhD,Full-time,Morocco,Data Architect,6,122180,86791,Aaron Carter,Indeed,10/13/2022,11:08 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Data Analyst,5,126792,86791,Aaron Carter,Indeed,10/31/2022,13:38 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Data Architect,5,101297,91584,Ahmed Ali,Indeed,01/31/2022,14:38 PM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Data Architect,10,118135,91584,Ahmed Ali,Indeed,09/01/2022,12:32 PM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Developer,4,123592,91584,Ahmed Ali,Indeed,06/18/2022,10:37 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Kenya,Developer,5,122707,91584,Ahmed Ali,Indeed,07/09/2022,13:28 PM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Architect,7,142320,86791,Aaron Carter,Indeed,09/13/2022,10:54 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Data Architect,5,135476,91584,Ahmed Ali,Indeed,09/18/2022,13:18 AM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Data Architect,5,116286,91584,Ahmed Ali,Indeed,10/24/2022,12:49 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Morocco,Developer,5,102880,86791,Aaron Carter,Indeed,01/11/2023,14:44 PM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Analyst,6,105325,95818,Andrew Smith,Indeed,01/10/2023,13:22 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Ghana,Data Architect,4,132538,84448,Anthony Brown,Indeed,02/27/2022,13:07 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Morocco,Developer,4,122997,86791,Aaron Carter,Indeed,09/22/2022,13:58 AM,Male,31.7917,-7.0926
+PhD,Full-time,Ghana,Data Architect,5,112604,84448,Anthony Brown,Indeed,03/13/2022,14:17 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Ghana,Data Scientist,10,128642,84448,Anthony Brown,Indeed,11/04/2022,12:31 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Nigeria,Data Architect,10,123222,87163,Alex Johnson,Indeed,04/08/2022,12:31 AM,Male,9.082,8.6753
+M.Tech,Full-time,South Africa,Data Architect,5,157778,95818,Andrew Smith,Indeed,03/06/2022,9:29 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Data Scientist,5,102295,86791,Aaron Carter,Indeed,04/28/2022,13:50 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Egypt,Data Analyst,4,118778,84337,Adam Davis,Indeed,02/17/2023,15:53 PM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Data Architect,9,127132,95818,Andrew Smith,Indeed,04/08/2022,11:07 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Ghana,Data Scientist,8,106400,84448,Anthony Brown,Indeed,10/09/2022,14:39 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Morocco,Data Scientist,4,147536,86791,Aaron Carter,Indeed,03/02/2022,14:49 PM,Male,31.7917,-7.0926
+PhD,Full-time,Nigeria,Developer,10,119695,87163,Alex Johnson,Indeed,03/22/2023,9:50 AM,Male,9.082,8.6753
+PhD,Full-time,South Africa,Developer,6,143147,95818,Andrew Smith,Indeed,02/15/2022,13:46 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Developer,4,104254,86791,Aaron Carter,Indeed,07/20/2022,15:10 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Nigeria,Developer,8,115535,87163,Alex Johnson,Indeed,06/14/2023,13:25 AM,Male,9.082,8.6753
+PhD,Full-time,Kenya,Data Architect,4,111570,91584,Ahmed Ali,Indeed,07/01/2022,11:43 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,South Africa,Data Analyst,7,110613,95818,Andrew Smith,Indeed,12/15/2022,11:05 AM,Male,-30.5595,22.9375
+PhD,Full-time,Kenya,Data Architect,7,130050,91584,Ahmed Ali,Indeed,04/06/2023,9:22 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Nigeria,Data Scientist,5,122654,87163,Alex Johnson,Indeed,04/10/2022,14:47 PM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Architect,6,111115,86791,Aaron Carter,Indeed,05/25/2023,11:14 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Morocco,Developer,3,127819,86791,Aaron Carter,Indeed,01/19/2023,13:29 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Architect,3,137988,86791,Aaron Carter,Indeed,01/17/2023,14:13 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Scientist,7,117016,86791,Aaron Carter,Indeed,04/04/2022,13:50 AM,Male,31.7917,-7.0926
+PhD,Full-time,Ghana,Data Architect,8,134752,84448,Anthony Brown,Indeed,02/06/2022,11:51 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Kenya,Data Scientist,6,158238,91584,Ahmed Ali,Indeed,11/26/2022,13:01 AM,Male,-1.2921,36.8219
+PhD,Full-time,Egypt,Data Architect,9,148099,84337,Adam Davis,Indeed,09/03/2022,13:27 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Egypt,Data Analyst,6,158004,84337,Adam Davis,Indeed,02/05/2022,14:04 PM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Data Scientist,4,153468,84337,Adam Davis,Indeed,05/19/2023,9:19 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Egypt,Data Analyst,8,139303,84337,Adam Davis,Indeed,02/03/2023,14:43 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Data Scientist,3,140025,84448,Anthony Brown,Indeed,02/24/2023,13:56 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Ghana,Data Analyst,3,144061,84448,Anthony Brown,Indeed,12/19/2022,12:21 PM,Male,7.9465,-1.0232
+PhD,Full-time,South Africa,Data Architect,3,111178,95818,Andrew Smith,Indeed,07/29/2022,11:31 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Developer,10,100424,95818,Andrew Smith,Indeed,01/06/2022,9:01 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Data Architect,8,114365,95818,Andrew Smith,Indeed,03/16/2022,15:08 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Morocco,Data Analyst,5,139952,86791,Aaron Carter,Indeed,12/10/2022,10:55 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Ghana,Data Analyst,3,108400,84448,Anthony Brown,Indeed,04/09/2023,9:51 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,South Africa,Data Scientist,3,111741,95818,Andrew Smith,Indeed,07/12/2022,15:10 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Data Analyst,7,139839,95818,Andrew Smith,Indeed,06/04/2023,14:20 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Morocco,Developer,5,122112,86791,Aaron Carter,Indeed,10/07/2022,14:08 PM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Architect,5,128940,91584,Ahmed Ali,Indeed,11/08/2022,10:03 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Nigeria,Data Scientist,5,110429,87163,Alex Johnson,Indeed,03/30/2023,11:37 AM,Male,9.082,8.6753
+B.Tech,Full-time,Egypt,Data Analyst,6,106345,84337,Adam Davis,Indeed,01/11/2022,15:21 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Data Analyst,7,109397,84448,Anthony Brown,Indeed,03/11/2023,14:12 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Architect,6,111855,86791,Aaron Carter,Indeed,06/17/2023,11:12 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Ghana,Data Scientist,8,124582,84448,Anthony Brown,Indeed,06/01/2023,11:22 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Nigeria,Data Scientist,4,145187,87163,Alex Johnson,Indeed,07/15/2022,12:04 PM,Male,9.082,8.6753
+M.Tech,Full-time,Egypt,Data Scientist,5,134642,84337,Adam Davis,Indeed,05/03/2022,11:05 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Nigeria,Developer,6,156915,87163,Alex Johnson,Indeed,06/27/2023,15:55 PM,Male,9.082,8.6753
+PhD,Full-time,South Africa,Developer,3,159278,95818,Andrew Smith,Indeed,01/07/2022,14:50 PM,Male,-30.5595,22.9375
+PhD,Full-time,Ghana,Developer,3,115247,84448,Anthony Brown,Indeed,02/05/2023,13:06 PM,Male,7.9465,-1.0232
+PhD,Full-time,South Africa,Developer,6,120112,95818,Andrew Smith,Indeed,09/28/2022,14:34 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Data Scientist,8,113936,86791,Aaron Carter,Indeed,09/24/2022,12:13 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Data Scientist,6,147844,86791,Aaron Carter,Indeed,06/03/2023,14:27 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Egypt,Developer,4,104770,84337,Adam Davis,Indeed,07/05/2022,14:52 AM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Data Analyst,7,115162,95818,Andrew Smith,Indeed,04/14/2022,15:11 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Data Analyst,4,101839,86791,Aaron Carter,Indeed,05/19/2022,14:17 AM,Male,31.7917,-7.0926
+PhD,Full-time,Nigeria,Developer,4,137409,87163,Alex Johnson,Indeed,12/27/2022,13:23 AM,Male,9.082,8.6753
+B.Tech,Full-time,Kenya,Data Scientist,5,110672,91584,Ahmed Ali,Indeed,08/30/2022,12:37 PM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Architect,3,117356,86791,Aaron Carter,Indeed,02/19/2022,15:35 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Ghana,Data Architect,3,105851,84448,Anthony Brown,Indeed,05/18/2023,13:37 PM,Male,7.9465,-1.0232
+PhD,Full-time,South Africa,Data Scientist,8,143015,95818,Andrew Smith,Indeed,08/07/2022,12:18 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Egypt,Data Analyst,8,125242,84337,Adam Davis,Indeed,02/16/2022,9:17 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Kenya,Data Analyst,7,152066,91584,Ahmed Ali,Indeed,03/27/2022,13:42 PM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Data Analyst,6,155410,91584,Ahmed Ali,Indeed,10/24/2022,13:10 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Developer,9,112931,84448,Anthony Brown,Indeed,06/10/2022,14:32 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Egypt,Data Analyst,7,100130,84337,Adam Davis,Indeed,12/06/2022,13:12 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Nigeria,Data Architect,3,103266,87163,Alex Johnson,Indeed,03/18/2023,15:00 PM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Developer,7,144486,86791,Aaron Carter,Indeed,06/29/2022,14:06 PM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Architect,9,127404,91584,Ahmed Ali,Indeed,06/18/2023,14:52 AM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Scientist,9,101809,86791,Aaron Carter,Indeed,11/11/2022,13:04 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Nigeria,Data Architect,4,118140,87163,Alex Johnson,Indeed,10/21/2022,14:01 PM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Analyst,10,120076,86791,Aaron Carter,Indeed,03/26/2023,12:07 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Data Scientist,5,119985,91584,Ahmed Ali,Indeed,05/11/2022,15:46 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,South Africa,Data Analyst,10,121447,95818,Andrew Smith,Indeed,02/01/2023,12:01 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Ghana,Developer,9,115004,84448,Anthony Brown,Indeed,12/17/2022,14:15 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Kenya,Developer,5,132037,91584,Ahmed Ali,Indeed,11/05/2022,15:19 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Kenya,Data Scientist,9,137722,91584,Ahmed Ali,Indeed,12/30/2022,13:10 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Developer,3,150110,87163,Alex Johnson,Indeed,07/27/2023,12:31 AM,Male,9.082,8.6753
+PhD,Full-time,Morocco,Data Architect,8,129760,86791,Aaron Carter,Indeed,05/10/2022,14:56 AM,Male,31.7917,-7.0926
+PhD,Full-time,Ghana,Developer,9,127109,84448,Anthony Brown,Indeed,04/23/2023,12:14 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Kenya,Data Architect,3,105691,91584,Ahmed Ali,Indeed,10/24/2022,10:13 AM,Male,-1.2921,36.8219
+PhD,Full-time,Egypt,Data Scientist,9,112311,84337,Adam Davis,Indeed,06/18/2022,15:43 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Egypt,Developer,10,142445,84337,Adam Davis,Indeed,09/28/2022,15:50 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Data Analyst,5,114962,91584,Ahmed Ali,Indeed,01/25/2023,12:05 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Morocco,Data Scientist,10,154567,86791,Aaron Carter,Indeed,03/31/2023,9:13 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Data Scientist,6,104417,91584,Ahmed Ali,Indeed,07/09/2023,13:06 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Data Architect,10,122302,84337,Adam Davis,Indeed,08/23/2022,13:37 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Morocco,Data Scientist,5,127229,86791,Aaron Carter,Indeed,04/25/2022,11:18 AM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Architect,8,158666,95818,Andrew Smith,Indeed,05/06/2022,12:48 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Kenya,Data Analyst,7,129917,91584,Ahmed Ali,Indeed,04/19/2023,11:29 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Morocco,Developer,8,123618,86791,Aaron Carter,Indeed,02/25/2023,10:59 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Developer,10,149094,86791,Aaron Carter,Indeed,02/11/2022,13:16 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Egypt,Developer,8,115835,84337,Adam Davis,Indeed,10/18/2022,12:29 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Morocco,Developer,5,129726,86791,Aaron Carter,Indeed,08/17/2022,10:52 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Architect,4,119009,86791,Aaron Carter,Indeed,09/03/2022,14:14 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Data Architect,3,110767,91584,Ahmed Ali,Indeed,08/19/2022,9:01 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Egypt,Data Scientist,9,147762,84337,Adam Davis,Indeed,03/10/2023,14:27 AM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Data Analyst,10,145056,84337,Adam Davis,Indeed,01/14/2023,11:07 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Data Architect,9,124331,84448,Anthony Brown,Indeed,11/02/2022,14:08 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,South Africa,Data Analyst,10,149654,95818,Andrew Smith,Indeed,07/28/2023,11:43 AM,Male,-30.5595,22.9375
+PhD,Full-time,Nigeria,Data Analyst,7,151614,87163,Alex Johnson,Indeed,03/09/2022,11:43 AM,Male,9.082,8.6753
+B.Tech,Full-time,Egypt,Data Scientist,3,111780,84337,Adam Davis,Indeed,07/07/2023,12:28 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Architect,6,100745,95818,Andrew Smith,Indeed,10/19/2022,15:21 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Developer,4,114617,86791,Aaron Carter,Indeed,06/01/2023,12:53 PM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Architect,6,105944,95818,Andrew Smith,Indeed,05/31/2023,13:14 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Egypt,Data Analyst,5,124323,84337,Adam Davis,Indeed,02/24/2022,15:57 PM,Male,26.8206,30.8025
+PhD,Full-time,Kenya,Data Analyst,3,100854,91584,Ahmed Ali,Indeed,07/01/2022,11:24 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Kenya,Data Scientist,5,108908,91584,Ahmed Ali,Indeed,01/30/2022,14:51 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Data Architect,8,124563,87163,Alex Johnson,Indeed,05/30/2022,12:20 AM,Male,9.082,8.6753
+B.Tech,Full-time,Kenya,Developer,9,133413,91584,Ahmed Ali,Indeed,12/16/2022,13:08 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Morocco,Developer,7,129148,86791,Aaron Carter,Indeed,04/21/2022,14:20 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Data Analyst,9,156312,91584,Ahmed Ali,Indeed,01/06/2022,14:18 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Data Scientist,4,152094,84337,Adam Davis,Indeed,11/12/2022,15:18 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Morocco,Data Analyst,3,128463,86791,Aaron Carter,Indeed,12/08/2022,15:39 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Data Analyst,10,111967,91584,Ahmed Ali,Indeed,03/07/2023,13:35 AM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Scientist,6,125119,86791,Aaron Carter,Indeed,07/14/2022,14:06 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Nigeria,Data Analyst,5,108393,87163,Alex Johnson,Indeed,02/06/2022,12:25 PM,Male,9.082,8.6753
+B.Tech,Full-time,South Africa,Data Architect,7,147835,95818,Andrew Smith,Indeed,07/15/2022,10:09 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Kenya,Data Analyst,5,100789,91584,Ahmed Ali,Indeed,03/14/2023,14:59 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Data Analyst,3,112433,84448,Anthony Brown,Indeed,05/02/2022,10:00 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Ghana,Data Analyst,8,156380,84448,Anthony Brown,Indeed,09/27/2022,9:23 AM,Male,7.9465,-1.0232
+PhD,Full-time,South Africa,Data Architect,8,151938,95818,Andrew Smith,Indeed,08/06/2022,15:36 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Egypt,Data Analyst,6,126026,84337,Adam Davis,Indeed,03/19/2022,12:05 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Morocco,Developer,6,112044,86791,Aaron Carter,Indeed,05/30/2023,11:32 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Egypt,Developer,3,141803,84337,Adam Davis,Indeed,02/25/2023,12:47 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Data Architect,4,111946,91584,Ahmed Ali,Indeed,04/16/2022,14:51 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Data Architect,9,120819,84448,Anthony Brown,Indeed,04/22/2022,13:46 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Nigeria,Data Architect,4,149361,87163,Alex Johnson,Indeed,10/29/2022,15:20 PM,Male,9.082,8.6753
+M.Tech,Full-time,Egypt,Data Scientist,5,115850,84337,Adam Davis,Indeed,03/20/2022,14:58 PM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Data Scientist,4,135259,95818,Andrew Smith,Indeed,10/23/2022,15:52 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Data Architect,6,108448,86791,Aaron Carter,Indeed,04/25/2022,11:16 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Ghana,Developer,3,113998,84448,Anthony Brown,Indeed,02/26/2023,9:49 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Ghana,Data Scientist,4,112921,84448,Anthony Brown,Indeed,09/30/2022,14:45 PM,Male,7.9465,-1.0232
+PhD,Full-time,Egypt,Data Analyst,10,101925,84337,Adam Davis,Indeed,01/13/2023,12:17 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Egypt,Developer,4,135698,84337,Adam Davis,Indeed,08/28/2022,9:18 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Morocco,Data Scientist,5,135965,86791,Aaron Carter,Indeed,09/11/2022,13:27 PM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Architect,6,112545,91584,Ahmed Ali,Indeed,07/26/2022,14:13 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Data Analyst,10,121729,87163,Alex Johnson,Indeed,07/17/2022,15:04 PM,Male,9.082,8.6753
+B.Tech,Full-time,Ghana,Data Analyst,9,125975,84448,Anthony Brown,Indeed,05/26/2023,15:54 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,South Africa,Data Scientist,10,112336,95818,Andrew Smith,Indeed,09/26/2022,15:52 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Egypt,Data Analyst,9,120716,84337,Adam Davis,Indeed,09/26/2022,14:56 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Architect,6,135913,95818,Andrew Smith,Indeed,01/31/2023,14:15 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Ghana,Developer,6,116446,84448,Anthony Brown,Indeed,07/19/2022,15:19 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Morocco,Developer,9,109154,86791,Aaron Carter,Indeed,07/24/2022,10:07 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Developer,6,107701,86791,Aaron Carter,Indeed,03/11/2023,12:45 PM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Analyst,7,116543,91584,Ahmed Ali,Indeed,02/03/2022,12:26 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Kenya,Data Scientist,7,152647,91584,Ahmed Ali,Indeed,07/26/2023,15:47 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Egypt,Developer,3,123813,84337,Adam Davis,Indeed,04/27/2022,10:45 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Morocco,Data Scientist,7,104081,86791,Aaron Carter,Indeed,09/08/2022,11:13 AM,Male,31.7917,-7.0926
+PhD,Full-time,Egypt,Data Architect,4,111639,84337,Adam Davis,Indeed,05/31/2023,12:17 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Data Analyst,3,102927,84448,Anthony Brown,Indeed,10/20/2022,15:54 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Kenya,Developer,6,111197,91584,Ahmed Ali,Indeed,01/23/2023,13:21 PM,Male,-1.2921,36.8219
+PhD,Full-time,Ghana,Data Scientist,8,154866,84448,Anthony Brown,Indeed,08/31/2022,11:10 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Ghana,Data Architect,3,122362,84448,Anthony Brown,Indeed,07/23/2022,13:38 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Kenya,Developer,7,110538,91584,Ahmed Ali,Indeed,03/03/2022,9:49 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Data Scientist,3,119441,87163,Alex Johnson,Indeed,03/10/2022,14:45 AM,Male,9.082,8.6753
+PhD,Full-time,Kenya,Data Architect,10,127440,91584,Ahmed Ali,Indeed,05/03/2022,12:16 PM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Developer,4,100631,95818,Andrew Smith,Indeed,09/30/2022,10:40 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Data Scientist,8,126013,95818,Andrew Smith,Indeed,05/23/2023,13:45 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Morocco,Data Architect,10,153625,86791,Aaron Carter,Indeed,09/24/2022,9:58 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Architect,3,127865,86791,Aaron Carter,Indeed,06/08/2022,11:09 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,South Africa,Data Architect,7,139125,95818,Andrew Smith,Indeed,07/12/2022,13:11 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Ghana,Data Analyst,4,112746,84448,Anthony Brown,Indeed,07/13/2023,13:23 PM,Male,7.9465,-1.0232
+PhD,Full-time,Nigeria,Developer,7,146783,87163,Alex Johnson,Indeed,03/20/2023,13:08 PM,Male,9.082,8.6753
+M.Tech,Full-time,Kenya,Developer,5,119639,91584,Ahmed Ali,Indeed,07/25/2023,15:23 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Ghana,Data Scientist,3,102970,84448,Anthony Brown,Indeed,07/28/2022,11:49 AM,Male,7.9465,-1.0232
+PhD,Full-time,Ghana,Data Scientist,7,156687,84448,Anthony Brown,Indeed,03/02/2023,15:20 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Egypt,Developer,5,139016,84337,Adam Davis,Indeed,07/23/2022,12:27 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Developer,6,113178,91584,Ahmed Ali,Indeed,02/01/2022,12:32 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Kenya,Developer,6,132485,91584,Ahmed Ali,Indeed,07/25/2023,14:02 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Data Analyst,4,115140,87163,Alex Johnson,Indeed,08/03/2022,13:23 PM,Male,9.082,8.6753
+B.Tech,Full-time,Egypt,Data Scientist,9,155298,84337,Adam Davis,Indeed,05/14/2023,13:21 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Egypt,Data Architect,6,119286,84337,Adam Davis,Indeed,12/26/2022,13:02 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Ghana,Developer,6,147582,84448,Anthony Brown,Indeed,10/18/2022,14:23 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Nigeria,Developer,5,127607,87163,Alex Johnson,Indeed,03/12/2022,11:27 AM,Male,9.082,8.6753
+B.Tech,Full-time,Kenya,Developer,7,139315,91584,Ahmed Ali,Indeed,02/02/2022,14:21 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Nigeria,Data Analyst,9,100423,87163,Alex Johnson,Indeed,04/29/2022,14:58 AM,Male,9.082,8.6753
+PhD,Full-time,Kenya,Data Architect,9,155822,91584,Ahmed Ali,Indeed,01/27/2023,12:10 AM,Male,-1.2921,36.8219
+PhD,Full-time,Nigeria,Data Analyst,6,109909,87163,Alex Johnson,Indeed,11/27/2022,14:41 PM,Male,9.082,8.6753
+PhD,Full-time,Nigeria,Data Scientist,7,139231,87163,Alex Johnson,Indeed,02/26/2023,12:21 AM,Male,9.082,8.6753
+B.Tech,Full-time,Kenya,Data Architect,6,101676,91584,Ahmed Ali,Indeed,07/22/2022,12:08 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Data Analyst,8,157675,87163,Alex Johnson,Indeed,03/10/2023,10:46 AM,Male,9.082,8.6753
+B.Tech,Full-time,South Africa,Developer,4,102547,95818,Andrew Smith,Indeed,11/02/2022,11:28 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Ghana,Data Analyst,9,131631,84448,Anthony Brown,Indeed,03/01/2022,13:22 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Nigeria,Data Analyst,4,146212,87163,Alex Johnson,Indeed,07/15/2023,15:33 PM,Male,9.082,8.6753
+B.Tech,Full-time,Nigeria,Developer,4,130096,87163,Alex Johnson,Indeed,05/28/2022,14:34 PM,Male,9.082,8.6753
+B.Tech,Full-time,Kenya,Developer,6,155949,91584,Ahmed Ali,Indeed,12/24/2022,11:20 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Egypt,Data Architect,4,130487,84337,Adam Davis,Indeed,09/24/2022,15:40 PM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Developer,9,154162,84337,Adam Davis,Indeed,09/24/2022,12:15 PM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Data Architect,8,136898,84337,Adam Davis,Indeed,03/13/2022,13:02 AM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Data Scientist,8,101711,84337,Adam Davis,Indeed,03/24/2022,9:50 AM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Architect,8,100059,95818,Andrew Smith,Indeed,08/27/2022,10:56 AM,Male,-30.5595,22.9375
+PhD,Full-time,Ghana,Developer,8,127883,84448,Anthony Brown,Indeed,09/30/2022,12:47 PM,Male,7.9465,-1.0232
+PhD,Full-time,Morocco,Data Analyst,4,157648,86791,Aaron Carter,Indeed,06/10/2023,14:20 AM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Scientist,10,149792,91584,Ahmed Ali,Indeed,06/21/2022,15:48 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Morocco,Developer,4,112948,86791,Aaron Carter,Indeed,07/18/2022,12:31 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Data Architect,3,109193,91584,Ahmed Ali,Indeed,05/28/2023,12:38 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Nigeria,Data Scientist,10,114058,87163,Alex Johnson,Indeed,04/15/2022,14:30 AM,Male,9.082,8.6753
+PhD,Full-time,Nigeria,Data Scientist,7,111526,87163,Alex Johnson,Indeed,07/13/2023,13:34 AM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Scientist,10,133419,86791,Aaron Carter,Indeed,09/19/2022,9:20 AM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Developer,5,118100,91584,Ahmed Ali,Indeed,04/17/2022,12:52 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Kenya,Data Architect,5,114626,91584,Ahmed Ali,Indeed,01/03/2023,14:44 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Morocco,Data Analyst,3,132431,86791,Aaron Carter,Indeed,03/05/2022,11:48 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Ghana,Developer,4,121151,84448,Anthony Brown,Indeed,04/27/2023,14:36 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Ghana,Data Architect,6,110793,84448,Anthony Brown,Indeed,03/11/2022,14:07 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Ghana,Data Analyst,9,159181,84448,Anthony Brown,Indeed,06/30/2023,10:17 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Egypt,Data Scientist,5,150226,84337,Adam Davis,Indeed,09/27/2022,12:12 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Analyst,8,141275,95818,Andrew Smith,Indeed,06/13/2022,13:14 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Egypt,Data Architect,7,117417,84337,Adam Davis,Indeed,04/28/2022,13:31 PM,Male,26.8206,30.8025
+PhD,Full-time,Nigeria,Data Scientist,6,124081,87163,Alex Johnson,Indeed,04/17/2022,12:49 PM,Male,9.082,8.6753
+M.Tech,Full-time,Nigeria,Data Scientist,3,147339,87163,Alex Johnson,Indeed,11/12/2022,15:57 PM,Male,9.082,8.6753
+B.Tech,Full-time,Morocco,Data Architect,3,103406,86791,Aaron Carter,Indeed,10/04/2022,15:50 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Egypt,Developer,4,107403,84337,Adam Davis,Indeed,06/21/2023,12:31 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Data Analyst,9,102169,91584,Ahmed Ali,Indeed,02/20/2023,12:55 PM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Developer,4,158906,95818,Andrew Smith,Indeed,04/24/2022,14:50 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Nigeria,Developer,10,138097,87163,Alex Johnson,Indeed,12/19/2022,13:30 AM,Male,9.082,8.6753
+B.Tech,Full-time,Morocco,Developer,7,143036,86791,Aaron Carter,Indeed,07/03/2023,13:48 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,South Africa,Data Analyst,10,154141,95818,Andrew Smith,Indeed,05/04/2022,14:18 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Nigeria,Data Analyst,6,128967,87163,Alex Johnson,Indeed,01/06/2023,13:30 PM,Male,9.082,8.6753
+PhD,Full-time,Nigeria,Developer,8,138699,87163,Alex Johnson,Indeed,10/06/2022,12:29 AM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Architect,10,128286,86791,Aaron Carter,Indeed,04/30/2022,9:06 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Ghana,Data Architect,5,151037,84448,Anthony Brown,Indeed,03/07/2022,12:37 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Ghana,Developer,6,114402,84448,Anthony Brown,Indeed,07/16/2023,15:12 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Ghana,Developer,8,131020,84448,Anthony Brown,Indeed,11/22/2022,14:11 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Egypt,Developer,3,108401,84337,Adam Davis,Indeed,05/28/2023,10:07 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Developer,9,123871,84448,Anthony Brown,Indeed,01/29/2022,14:46 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Egypt,Developer,3,116073,84337,Adam Davis,Indeed,09/19/2022,14:09 PM,Male,26.8206,30.8025
+PhD,Full-time,Kenya,Data Scientist,7,100490,91584,Ahmed Ali,Indeed,06/10/2022,14:17 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Data Architect,4,142558,84337,Adam Davis,Indeed,01/05/2023,13:09 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Egypt,Developer,8,120497,84337,Adam Davis,Indeed,11/21/2022,9:15 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Data Analyst,3,155151,91584,Ahmed Ali,Indeed,01/05/2022,10:46 AM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Data Scientist,6,129373,95818,Andrew Smith,Indeed,07/10/2023,13:58 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Nigeria,Developer,9,151756,87163,Alex Johnson,Indeed,08/02/2022,14:41 PM,Male,9.082,8.6753
+M.Tech,Full-time,Nigeria,Data Architect,10,149544,87163,Alex Johnson,Indeed,12/14/2022,13:50 PM,Male,9.082,8.6753
+B.Tech,Full-time,Egypt,Data Analyst,3,147092,84337,Adam Davis,Indeed,02/10/2023,12:46 PM,Male,26.8206,30.8025
+M.Tech,Full-time,South Africa,Data Scientist,4,151894,95818,Andrew Smith,Indeed,05/18/2023,14:06 PM,Male,-30.5595,22.9375
+PhD,Full-time,Morocco,Data Architect,5,118252,86791,Aaron Carter,Indeed,08/11/2022,15:59 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Nigeria,Developer,3,143672,87163,Alex Johnson,Indeed,07/20/2022,13:43 PM,Male,9.082,8.6753
+B.Tech,Full-time,Ghana,Data Analyst,10,127377,84448,Anthony Brown,Indeed,09/15/2022,13:27 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,South Africa,Developer,6,131958,95818,Andrew Smith,Indeed,01/15/2023,14:26 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Kenya,Developer,6,112274,91584,Ahmed Ali,Indeed,10/02/2022,12:59 AM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Data Analyst,8,119501,95818,Andrew Smith,Indeed,02/07/2022,14:01 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Morocco,Developer,4,117492,86791,Aaron Carter,Indeed,09/24/2022,12:33 PM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Analyst,7,122721,95818,Andrew Smith,Indeed,06/08/2023,13:58 PM,Male,-30.5595,22.9375
+PhD,Full-time,Ghana,Data Architect,6,133699,84448,Anthony Brown,Indeed,06/14/2023,15:06 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Egypt,Data Analyst,5,109746,84337,Adam Davis,Indeed,06/10/2022,12:56 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Analyst,8,127796,95818,Andrew Smith,Indeed,05/30/2022,12:29 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Kenya,Data Scientist,7,106695,91584,Ahmed Ali,Indeed,04/30/2023,12:22 AM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Scientist,10,149585,86791,Aaron Carter,Indeed,04/21/2023,14:59 PM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Data Analyst,8,109629,91584,Ahmed Ali,Indeed,04/15/2023,12:30 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Developer,5,126689,84448,Anthony Brown,Indeed,08/11/2022,14:36 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Morocco,Data Architect,9,101194,86791,Aaron Carter,Indeed,01/03/2023,10:15 AM,Male,31.7917,-7.0926
+M.Tech,Full-time,Nigeria,Developer,4,154986,87163,Alex Johnson,Indeed,01/02/2023,13:53 PM,Male,9.082,8.6753
+PhD,Full-time,Ghana,Data Architect,3,103385,84448,Anthony Brown,Indeed,03/15/2022,12:38 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Architect,4,103729,86791,Aaron Carter,Indeed,10/05/2022,10:58 AM,Male,31.7917,-7.0926
+PhD,Full-time,Kenya,Developer,8,152414,91584,Ahmed Ali,Indeed,02/11/2023,13:50 PM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Architect,10,105540,86791,Aaron Carter,Indeed,07/12/2022,14:11 PM,Male,31.7917,-7.0926
+PhD,Full-time,Egypt,Data Analyst,4,132720,84337,Adam Davis,Indeed,07/10/2022,13:45 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Kenya,Data Scientist,9,105110,91584,Ahmed Ali,Indeed,05/30/2023,14:23 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Kenya,Developer,7,130659,91584,Ahmed Ali,Indeed,04/05/2023,9:08 AM,Male,-1.2921,36.8219
+PhD,Full-time,Ghana,Developer,8,103675,84448,Anthony Brown,Indeed,05/05/2023,10:10 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Scientist,6,105823,86791,Aaron Carter,Indeed,04/12/2022,9:22 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Egypt,Data Analyst,10,121043,84337,Adam Davis,Indeed,03/28/2022,11:05 AM,Male,26.8206,30.8025
+PhD,Full-time,Morocco,Developer,5,116985,86791,Aaron Carter,Indeed,11/19/2022,14:41 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Nigeria,Data Analyst,6,145705,87163,Alex Johnson,Indeed,12/01/2022,10:17 AM,Male,9.082,8.6753
+PhD,Full-time,Morocco,Data Scientist,6,113065,86791,Aaron Carter,Indeed,03/30/2023,12:07 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Ghana,Data Scientist,3,139757,84448,Anthony Brown,Indeed,12/01/2022,14:38 AM,Male,7.9465,-1.0232
+PhD,Full-time,Egypt,Developer,9,114220,84337,Adam Davis,Indeed,12/13/2022,14:08 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Nigeria,Data Analyst,7,116520,87163,Alex Johnson,Indeed,04/28/2023,15:35 PM,Male,9.082,8.6753
+PhD,Full-time,Nigeria,Data Architect,4,126388,87163,Alex Johnson,Indeed,08/14/2022,13:58 AM,Male,9.082,8.6753
+PhD,Full-time,Kenya,Data Architect,5,123383,91584,Ahmed Ali,Indeed,06/03/2023,10:26 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,South Africa,Data Analyst,4,116424,95818,Andrew Smith,Indeed,01/13/2022,13:25 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Egypt,Data Architect,7,152115,84337,Adam Davis,Indeed,05/29/2022,13:39 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Nigeria,Data Scientist,10,138684,87163,Alex Johnson,Indeed,04/05/2023,14:53 PM,Male,9.082,8.6753
+M.Tech,Full-time,Ghana,Data Architect,7,104942,84448,Anthony Brown,Indeed,11/21/2022,13:24 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Nigeria,Developer,10,123399,87163,Alex Johnson,Indeed,04/24/2022,10:02 AM,Male,9.082,8.6753
+M.Tech,Full-time,Nigeria,Data Architect,5,109010,87163,Alex Johnson,Indeed,01/01/2022,11:19 AM,Male,9.082,8.6753
+M.Tech,Full-time,Kenya,Data Scientist,8,148629,91584,Ahmed Ali,Indeed,12/18/2022,14:37 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Data Architect,3,126974,84448,Anthony Brown,Indeed,01/20/2022,13:39 AM,Male,7.9465,-1.0232
+B.Tech,Full-time,Ghana,Developer,3,129141,84448,Anthony Brown,Indeed,02/28/2023,13:32 PM,Male,7.9465,-1.0232
+PhD,Full-time,Nigeria,Data Analyst,6,149555,87163,Alex Johnson,Indeed,08/20/2022,11:17 AM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Analyst,5,143645,86791,Aaron Carter,Indeed,04/11/2023,12:36 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Egypt,Developer,10,128840,84337,Adam Davis,Indeed,12/04/2022,11:02 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Nigeria,Data Analyst,7,138747,87163,Alex Johnson,Indeed,12/25/2022,12:05 PM,Male,9.082,8.6753
+B.Tech,Full-time,Morocco,Developer,3,115223,86791,Aaron Carter,Indeed,06/19/2022,14:15 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Egypt,Data Architect,5,123142,84337,Adam Davis,Indeed,01/11/2023,13:05 AM,Male,26.8206,30.8025
+PhD,Full-time,Ghana,Data Architect,10,148236,84448,Anthony Brown,Indeed,01/21/2023,14:19 AM,Male,7.9465,-1.0232
+PhD,Full-time,Kenya,Developer,3,150807,91584,Ahmed Ali,Indeed,10/20/2022,12:29 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,South Africa,Developer,5,153748,95818,Andrew Smith,Indeed,07/19/2022,14:49 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,Kenya,Developer,7,157738,91584,Ahmed Ali,Indeed,02/06/2022,9:12 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Ghana,Data Scientist,9,113325,84448,Anthony Brown,Indeed,05/12/2022,10:54 AM,Male,7.9465,-1.0232
+M.Tech,Full-time,Ghana,Data Scientist,3,143257,84448,Anthony Brown,Indeed,02/09/2022,15:04 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,South Africa,Data Scientist,6,110966,95818,Andrew Smith,Indeed,03/22/2022,9:45 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Ghana,Data Scientist,9,126596,84448,Anthony Brown,Indeed,01/24/2022,12:52 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Kenya,Data Scientist,3,126299,91584,Ahmed Ali,Indeed,06/12/2022,15:25 PM,Male,-1.2921,36.8219
+PhD,Full-time,Ghana,Data Analyst,8,145186,84448,Anthony Brown,Indeed,02/07/2022,15:58 PM,Male,7.9465,-1.0232
+PhD,Full-time,Ghana,Data Architect,10,130545,84448,Anthony Brown,Indeed,01/01/2023,12:14 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Egypt,Data Scientist,9,115536,84337,Adam Davis,Indeed,12/08/2022,14:50 PM,Male,26.8206,30.8025
+PhD,Full-time,Kenya,Data Scientist,7,106808,91584,Ahmed Ali,Indeed,07/11/2023,14:41 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Nigeria,Data Scientist,5,112821,87163,Alex Johnson,Indeed,05/03/2023,15:17 PM,Male,9.082,8.6753
+M.Tech,Full-time,Morocco,Data Analyst,10,135358,86791,Aaron Carter,Indeed,10/09/2022,13:24 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Data Scientist,9,123575,91584,Ahmed Ali,Indeed,02/10/2023,9:30 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Data Scientist,6,139234,84337,Adam Davis,Indeed,04/15/2023,14:30 PM,Male,26.8206,30.8025
+M.Tech,Full-time,Ghana,Data Scientist,9,145513,84448,Anthony Brown,Indeed,07/31/2022,14:17 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Architect,3,122386,86791,Aaron Carter,Indeed,05/08/2022,13:52 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Egypt,Data Analyst,9,139113,84337,Adam Davis,Indeed,02/14/2022,12:49 PM,Male,26.8206,30.8025
+PhD,Full-time,Kenya,Developer,8,103221,91584,Ahmed Ali,Indeed,04/28/2023,14:13 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Developer,7,153289,84337,Adam Davis,Indeed,02/06/2022,11:40 AM,Male,26.8206,30.8025
+PhD,Full-time,Kenya,Data Scientist,8,134388,91584,Ahmed Ali,Indeed,08/14/2022,14:47 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,Morocco,Developer,6,147744,86791,Aaron Carter,Indeed,01/09/2022,9:12 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Morocco,Developer,6,141332,86791,Aaron Carter,Indeed,01/28/2022,9:04 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Data Architect,8,107123,91584,Ahmed Ali,Indeed,05/30/2022,9:22 AM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Data Analyst,9,109568,95818,Andrew Smith,Indeed,03/07/2022,12:59 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Egypt,Developer,8,111263,84337,Adam Davis,Indeed,03/23/2023,10:37 AM,Male,26.8206,30.8025
+PhD,Full-time,Nigeria,Data Analyst,8,125287,87163,Alex Johnson,Indeed,03/01/2022,12:44 AM,Male,9.082,8.6753
+M.Tech,Full-time,Kenya,Developer,5,104411,91584,Ahmed Ali,Indeed,10/06/2022,14:52 AM,Male,-1.2921,36.8219
+PhD,Full-time,Nigeria,Data Architect,9,144306,87163,Alex Johnson,Indeed,12/19/2022,12:09 PM,Male,9.082,8.6753
+M.Tech,Full-time,South Africa,Data Scientist,8,142679,95818,Andrew Smith,Indeed,02/16/2023,13:21 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Nigeria,Data Analyst,7,152665,87163,Alex Johnson,Indeed,07/16/2022,15:21 PM,Male,9.082,8.6753
+PhD,Full-time,South Africa,Data Scientist,7,144316,95818,Andrew Smith,Indeed,03/13/2023,12:44 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Ghana,Data Architect,3,156746,84448,Anthony Brown,Indeed,08/02/2022,12:37 AM,Male,7.9465,-1.0232
+PhD,Full-time,Egypt,Data Architect,9,111077,84337,Adam Davis,Indeed,03/03/2022,10:33 AM,Male,26.8206,30.8025
+PhD,Full-time,Kenya,Data Architect,9,133470,91584,Ahmed Ali,Indeed,11/27/2022,10:43 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Kenya,Data Analyst,7,129482,91584,Ahmed Ali,Indeed,04/22/2023,13:39 PM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Developer,5,106371,91584,Ahmed Ali,Indeed,04/03/2023,14:42 AM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Data Architect,6,143298,91584,Ahmed Ali,Indeed,11/25/2022,15:37 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Developer,3,108828,84337,Adam Davis,Indeed,12/24/2022,13:03 AM,Male,26.8206,30.8025
+PhD,Full-time,Egypt,Data Analyst,3,143989,84337,Adam Davis,Indeed,06/18/2022,10:56 AM,Male,26.8206,30.8025
+B.Tech,Full-time,Morocco,Developer,7,152493,86791,Aaron Carter,Indeed,07/05/2023,12:59 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Kenya,Developer,10,127850,91584,Ahmed Ali,Indeed,11/12/2022,14:55 AM,Male,-1.2921,36.8219
+PhD,Full-time,Nigeria,Data Scientist,5,103205,87163,Alex Johnson,Indeed,12/26/2022,11:23 AM,Male,9.082,8.6753
+PhD,Full-time,Morocco,Developer,10,118375,86791,Aaron Carter,Indeed,04/16/2023,14:29 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Morocco,Data Scientist,8,134626,86791,Aaron Carter,Indeed,11/17/2022,14:47 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Data Architect,9,101664,86791,Aaron Carter,Indeed,04/03/2022,14:23 PM,Male,31.7917,-7.0926
+PhD,Full-time,Egypt,Developer,9,137810,84337,Adam Davis,Indeed,01/21/2023,12:01 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Kenya,Data Architect,7,157491,91584,Ahmed Ali,Indeed,04/14/2023,13:10 AM,Male,-1.2921,36.8219
+M.Tech,Full-time,Kenya,Data Architect,9,145425,91584,Ahmed Ali,Indeed,07/28/2023,14:43 PM,Male,-1.2921,36.8219
+PhD,Full-time,Kenya,Developer,10,145447,91584,Ahmed Ali,Indeed,01/06/2023,13:51 PM,Male,-1.2921,36.8219
+PhD,Full-time,Morocco,Data Scientist,6,136173,86791,Aaron Carter,Indeed,01/14/2022,12:27 PM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Architect,4,105935,95818,Andrew Smith,Indeed,06/03/2022,12:50 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Data Scientist,7,153943,86791,Aaron Carter,Indeed,04/16/2023,15:19 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Morocco,Data Analyst,8,127778,86791,Aaron Carter,Indeed,06/09/2023,9:17 AM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Developer,7,111980,95818,Andrew Smith,Indeed,11/20/2022,12:00 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Kenya,Data Architect,5,143676,91584,Ahmed Ali,Indeed,05/01/2023,12:15 AM,Male,-1.2921,36.8219
+B.Tech,Full-time,Morocco,Data Architect,8,128096,86791,Aaron Carter,Indeed,06/09/2023,9:03 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Kenya,Data Scientist,4,120583,91584,Ahmed Ali,Indeed,01/31/2023,13:39 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Egypt,Developer,7,106266,84337,Adam Davis,Indeed,09/30/2022,14:26 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Scientist,10,126391,95818,Andrew Smith,Indeed,04/01/2022,14:03 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,South Africa,Data Architect,7,128436,95818,Andrew Smith,Indeed,12/17/2022,12:07 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Data Analyst,10,155935,95818,Andrew Smith,Indeed,12/20/2022,14:23 PM,Male,-30.5595,22.9375
+M.Tech,Full-time,South Africa,Data Scientist,7,158965,95818,Andrew Smith,Indeed,08/12/2022,14:49 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Ghana,Developer,8,151753,84448,Anthony Brown,Indeed,04/30/2022,12:46 PM,Male,7.9465,-1.0232
+PhD,Full-time,Egypt,Data Analyst,5,102547,84337,Adam Davis,Indeed,05/25/2023,13:44 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Egypt,Developer,4,158440,84337,Adam Davis,Indeed,02/26/2022,12:43 PM,Male,26.8206,30.8025
+PhD,Full-time,South Africa,Developer,8,117838,95818,Andrew Smith,Indeed,12/23/2022,9:13 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,South Africa,Data Scientist,10,110589,95818,Andrew Smith,Indeed,10/23/2022,14:02 PM,Male,-30.5595,22.9375
+PhD,Full-time,South Africa,Developer,9,126304,95818,Andrew Smith,Indeed,06/07/2022,13:53 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,Nigeria,Developer,4,121440,87163,Alex Johnson,Indeed,07/07/2022,13:25 AM,Male,9.082,8.6753
+M.Tech,Full-time,Kenya,Data Analyst,5,117562,91584,Ahmed Ali,Indeed,04/12/2022,14:20 PM,Male,-1.2921,36.8219
+M.Tech,Full-time,Ghana,Data Scientist,7,131079,84448,Anthony Brown,Indeed,08/23/2022,15:36 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Nigeria,Developer,4,106097,87163,Alex Johnson,Indeed,11/21/2022,9:48 AM,Male,9.082,8.6753
+M.Tech,Full-time,Egypt,Data Architect,9,143244,84337,Adam Davis,Indeed,09/17/2022,14:53 PM,Male,26.8206,30.8025
+B.Tech,Full-time,Nigeria,Data Architect,6,149037,87163,Alex Johnson,Indeed,03/19/2023,12:18 AM,Male,9.082,8.6753
+B.Tech,Full-time,Ghana,Data Analyst,4,158096,84448,Anthony Brown,Indeed,12/26/2022,13:36 PM,Male,7.9465,-1.0232
+B.Tech,Full-time,Nigeria,Data Analyst,10,144145,87163,Alex Johnson,Indeed,09/03/2022,15:20 PM,Male,9.082,8.6753
+B.Tech,Full-time,Nigeria,Developer,7,158969,87163,Alex Johnson,Indeed,02/26/2023,11:42 AM,Male,9.082,8.6753
+PhD,Full-time,Kenya,Data Scientist,5,140451,91584,Ahmed Ali,Indeed,10/21/2022,13:00 PM,Male,-1.2921,36.8219
+PhD,Full-time,Egypt,Data Analyst,5,123083,84337,Adam Davis,Indeed,05/13/2022,12:24 PM,Male,26.8206,30.8025
+B.Tech,Full-time,South Africa,Data Scientist,4,140598,95818,Andrew Smith,Indeed,02/01/2022,12:43 AM,Male,-30.5595,22.9375
+B.Tech,Full-time,Morocco,Data Scientist,4,102917,86791,Aaron Carter,Indeed,02/19/2023,12:41 AM,Male,31.7917,-7.0926
+PhD,Full-time,South Africa,Data Architect,6,103348,95818,Andrew Smith,Indeed,01/08/2023,14:26 AM,Male,-30.5595,22.9375
+PhD,Full-time,Morocco,Data Architect,5,128287,86791,Aaron Carter,Indeed,07/28/2022,15:27 PM,Male,31.7917,-7.0926
+M.Tech,Full-time,Nigeria,Data Analyst,8,137696,87163,Alex Johnson,Indeed,06/30/2022,10:12 AM,Male,9.082,8.6753
+B.Tech,Full-time,South Africa,Data Scientist,10,128386,95818,Andrew Smith,Indeed,04/30/2023,14:14 AM,Male,-30.5595,22.9375
+PhD,Full-time,Morocco,Data Analyst,5,151420,86791,Aaron Carter,Indeed,04/01/2022,11:13 AM,Male,31.7917,-7.0926
+PhD,Full-time,Morocco,Data Architect,7,124792,86791,Aaron Carter,Indeed,10/30/2022,11:40 AM,Male,31.7917,-7.0926
+B.Tech,Full-time,Nigeria,Data Scientist,8,158881,87163,Alex Johnson,Indeed,03/16/2023,12:23 PM,Male,9.082,8.6753
+M.Tech,Full-time,Ghana,Data Architect,6,126127,84448,Anthony Brown,Indeed,03/25/2023,14:07 PM,Male,7.9465,-1.0232
+M.Tech,Full-time,Morocco,Data Analyst,8,128040,86791,Aaron Carter,Indeed,03/31/2022,14:35 PM,Male,31.7917,-7.0926
+B.Tech,Full-time,Egypt,Data Analyst,7,105610,84337,Adam Davis,Indeed,01/31/2023,12:17 AM,Male,26.8206,30.8025
+M.Tech,Full-time,Nigeria,Developer,9,143678,87163,Alex Johnson,Indeed,07/08/2022,12:27 AM,Male,9.082,8.6753
+B.Tech,Full-time,Nigeria,Data Scientist,6,152754,87163,Alex Johnson,Indeed,01/17/2022,12:06 PM,Male,9.082,8.6753
+B.Tech,Full-time,Ghana,Data Architect,9,112655,84448,Anthony Brown,Indeed,09/20/2022,14:31 AM,Male,7.9465,-1.0232
+PhD,Full-time,Kenya,Data Analyst,5,124058,91584,Ahmed Ali,Indeed,04/17/2023,14:27 PM,Male,-1.2921,36.8219
+B.Tech,Full-time,South Africa,Developer,6,111639,95818,Andrew Smith,Indeed,11/12/2022,9:40 AM,Male,-30.5595,22.9375
+M.Tech,Full-time,South Africa,Data Analyst,6,157649,95818,Andrew Smith,Indeed,07/05/2022,12:31 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Kenya,Developer,7,151225,91584,Ahmed Ali,Indeed,01/17/2022,12:09 PM,Male,-1.2921,36.8219
+PhD,Full-time,South Africa,Data Architect,4,126089,95818,Andrew Smith,Indeed,08/19/2022,13:38 PM,Male,-30.5595,22.9375
+B.Tech,Full-time,Ghana,Data Analyst,4,122262,84448,Anthony Brown,Indeed,01/11/2023,13:08 PM,Male,7.9465,-1.0232
